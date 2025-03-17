@@ -1,5 +1,5 @@
 # Kalkulator-BMI-Sederhana
-### Repository ini berisi tentang kalkulator BMI deserhana beserta penerapan regresi linear sederhana
+### Repository ini berisi tentang kalkulator BMI sederhana beserta penerapan regresi linear sederhana
 ## Setup Environment
 Sebelum memulai, pastikan telah menginstall beberapa library berikut:
 - streamlit
